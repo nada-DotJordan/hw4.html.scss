@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(219, 219, 219);
+}
+
+h1 {
+  border-bottom: 3px solid orange;
+  width: 303px;
+  margin-left: 60px;
+  margin-top: 30px;
+}
+
+.one {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1200px;
+  height: 1000;
+  padding: 35px;
+  margin: 65px;
+  font-size: 20px;
+}
+.one .four {
+  display: flex;
+  flex-direction: row;
+}
+.one #vol {
+  border: 2px;
+  border-radius: 240px;
+  width: 200px;
+  height: 200px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+.one .two {
+  padding: 15px;
+}
+.one .five {
+  font-size: 30px;
+}
+.one #image {
+  width: 500px;
+  height: 220px;
+}
+
+/*# sourceMappingURL=style.css.map */
